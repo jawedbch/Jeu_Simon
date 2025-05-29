@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="darkred">#7A0707</color>
+    <color name="darkgreen">#32680A</color>
+    <color name="darkblue">#0B1F6A</color>
+    <color name="darkyellow">#BDAB04</color>
+    <color name="green">#64DD17</color>
+    <color name="red">#D50000</color>
+    <color name="background">#FFFFFF</color>
+    <color name="title">#000000</color>
+    <color name="scores">#333333</color>
+</resources>
